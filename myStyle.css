@@ -1,0 +1,28 @@
+.site-navbar .site-logo a {
+    color: white;
+}
+
+.site-navbar .site-navigation .site-menu>li>a {
+    padding: 5px 20px;
+    color:white;
+    display: inline-block;
+    text-decoration: none!important;
+}
+
+.publication{
+    font-style: italic;
+}
+
+.publication .name{
+    font-style: normal;
+}
+
+.publication a{
+    font-style: normal;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+.publication .name .myname{
+    text-decoration: underline;
+}
